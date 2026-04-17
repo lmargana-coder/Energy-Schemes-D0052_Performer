@@ -1,0 +1,13 @@
+﻿{
+  "Name": "D0311",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "UmOSaEaEu0ygB_h4P6P10A",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/UmOSaEaEu0ygB_h4P6P10A",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-12-19T14:37:08.8144967Z",
+  "Updated": "2023-12-19T14:37:08.8144967Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

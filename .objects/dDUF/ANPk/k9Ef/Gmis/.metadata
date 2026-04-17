@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Estimated Annual Consumption Header",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "GmisHG7xaUG43hedIU-Zkw",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/GmisHG7xaUG43hedIU-Zkw",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-11-09T13:28:20.0818828Z",
+  "Updated": "2024-01-04T16:24:07.6167501Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

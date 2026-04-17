@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Send To",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "ZVZ7j6Y7SU-GBUru4tsnMg",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/ZVZ7j6Y7SU-GBUru4tsnMg",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/7B703eVbWEGkMJgdDC03VQ",
+  "Created": "2023-11-01T16:06:30.4274332Z",
+  "Updated": "2023-11-01T16:16:54.9371963Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

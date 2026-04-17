@@ -1,0 +1,16 @@
+﻿{
+  "Name": "EstimatedAnnualConsumpt…2",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "hszG1yudCEarP2L1Bgktsw",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/hszG1yudCEarP2L1Bgktsw",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/7B703eVbWEGkMJgdDC03VQ",
+  "Created": "2023-11-01T16:09:16.405221Z",
+  "Updated": "2023-11-01T16:12:22.0883644Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

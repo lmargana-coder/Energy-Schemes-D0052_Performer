@@ -1,0 +1,16 @@
+﻿{
+  "Name": "J79_Value1",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "YAfxPH-pX0CkWCQqXBgaPg",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/YAfxPH-pX0CkWCQqXBgaPg",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-12-25T15:05:02.0415507Z",
+  "Updated": "2023-12-25T15:06:40.9394037Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

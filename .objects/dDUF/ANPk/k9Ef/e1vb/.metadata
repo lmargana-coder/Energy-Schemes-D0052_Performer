@@ -1,0 +1,16 @@
+﻿{
+  "Name": "D0260v2",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "e1vbgzz_akarT44RbzNi3g",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/e1vbgzz_akarT44RbzNi3g",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-10-31T15:26:50.1028461Z",
+  "Updated": "2023-10-31T15:27:29.9174275Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

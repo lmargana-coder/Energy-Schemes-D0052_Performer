@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Len_U3XVYUqgXeD9NJK34g" Reference="xS-NGG6aBUWWNP-jAjCyhQ/XQmCShr8g0206Dut-rJFwA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://ensek-imi.prod.uw.systems/#/workspace/CRM.CustomerAccountDetails//45774192" CvElementArea="890, 630, 33, 33" CvTextArea="771, 624, 16, 21" CvTextArgument="F" CvType="Icon" DesignTimeRectangle="917, 574, 26, 38" DesignTimeScaleFactor="1.5" FriendlyName="'SPAN'" FullSelectorArgument="&lt;webctrl parentid='Flow Viewer:0' tag='TABLE' /&gt;&lt;webctrl class='ag-header-cell-menu-button' tableRow='2' tag='SPAN' idx='5' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='Flow Viewer:0' tag='TABLE' /&gt;&lt;webctrl class='ag-header-cell-menu-button' type='' tag='SPAN' aaname='' /&gt;" Guid="b60410c0-896c-4fc3-aa0b-d7a3beeba288" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAB4AAAAqCAYAAACk2+sZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAA/SURBVFhH7c1BDQAwDMPAAhu5sh2LlIXzsSW/b/6+NBbGFsYWxhbGFsYWxhbGFsYWxhbGFsaelBLGEsYqwckBcIBCg5HksWoAAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Account Details' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="bff630a46870b50df5e9cd812d876af5.png" xmlns="">0Zf0xPcZT3kmctEizexV0_Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "J300",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "2JFF5LJ1_USLmLXDZBi_og",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/2JFF5LJ1_USLmLXDZBi_og",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-10-27T15:44:10.0450891Z",
+  "Updated": "2023-10-27T15:44:10.0450891Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

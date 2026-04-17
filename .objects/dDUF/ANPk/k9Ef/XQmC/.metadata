@@ -1,0 +1,16 @@
+﻿{
+  "Name": "From Filter",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "XQmCShr8g0206Dut-rJFwA",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/XQmCShr8g0206Dut-rJFwA",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-12-19T15:34:00.5663282Z",
+  "Updated": "2023-12-19T15:36:06.9706117Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

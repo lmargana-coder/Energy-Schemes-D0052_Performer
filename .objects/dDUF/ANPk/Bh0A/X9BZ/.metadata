@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Search",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "X9BZ9TldsU6ojwEH5mtuTQ",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/X9BZ9TldsU6ojwEH5mtuTQ",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/Bh0AfvbyBEKBNM6pq8Hj8g",
+  "Created": "2023-10-27T14:40:48.6790044Z",
+  "Updated": "2023-10-27T14:40:48.6790044Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

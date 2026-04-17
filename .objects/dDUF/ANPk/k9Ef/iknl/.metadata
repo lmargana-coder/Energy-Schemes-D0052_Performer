@@ -1,0 +1,16 @@
+﻿{
+  "Name": "D0019",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "iknlujAdn0-SS0cBLl3slw",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/iknlujAdn0-SS0cBLl3slw",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-10-31T15:33:54.3925612Z",
+  "Updated": "2023-10-31T15:34:39.9655449Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

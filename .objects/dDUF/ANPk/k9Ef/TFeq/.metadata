@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Select All",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "TFeqfn1EK0qSm406wIL53w",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/TFeqfn1EK0qSm406wIL53w",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-10-27T15:18:00.3215499Z",
+  "Updated": "2023-10-30T15:52:05.2779075Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

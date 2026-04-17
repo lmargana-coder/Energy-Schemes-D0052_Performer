@@ -1,0 +1,13 @@
+﻿{
+  "Name": "MeasurementClassId",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "bFvbzdoWrUmEDFh4jzHPNA",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/bFvbzdoWrUmEDFh4jzHPNA",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/7B703eVbWEGkMJgdDC03VQ",
+  "Created": "2023-11-01T16:06:30.5957137Z",
+  "Updated": "2023-11-01T16:06:30.5957137Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

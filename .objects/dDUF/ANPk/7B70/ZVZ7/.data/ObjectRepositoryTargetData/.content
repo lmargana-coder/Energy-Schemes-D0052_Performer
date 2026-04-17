@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ZSASFzPx4kCisLbkCZWWmw" Reference="xS-NGG6aBUWWNP-jAjCyhQ/ZVZ7j6Y7SU-GBUru4tsnMg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://ensek-imi.prod.uw.systems/#/workspace/CRM.CustomerAccountDetails//44973379" CvElementArea="609, 706, 164, 35" CvTextArea="618, 713, 126, 21" CvTextArgument="Please Select" CvType="InputBox" DesignTimeRectangle="639, 736, 441, 35" DesignTimeScaleFactor="1.649999976158142" ElementType="DropDown" FriendlyName="'UKDC-IMServ Europe Ltd'" FullSelectorArgument="&lt;webctrl id='Recipient' tag='SELECT' aaname='Send To' idx='1' /&gt;" FuzzySelectorArgument="&lt;webctrl id='Recipient' tag='SELECT' aaname='Send To' type='' class='ng-touched ng-dirty ng-valid-parse ng-valid ng-valid-required' /&gt;" Guid="214cc905-dac8-4a48-8e5d-908a6ad434c6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Account Details' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b27bb143aa724d288e6918d234b12c13.png" xmlns="">0-mXskH3QcEaxJiLnb58Xhg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

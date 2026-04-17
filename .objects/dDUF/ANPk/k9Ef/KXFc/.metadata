@@ -1,0 +1,13 @@
+﻿{
+  "Name": "J76",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "KXFct__WpEWj6aEvoKRJyA",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/KXFct__WpEWj6aEvoKRJyA",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-10-27T15:44:10.0095687Z",
+  "Updated": "2023-10-27T15:44:10.0095687Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

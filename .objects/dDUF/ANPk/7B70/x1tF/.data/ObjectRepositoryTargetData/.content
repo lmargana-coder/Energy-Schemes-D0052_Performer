@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="j7e7fdLtY0ysSj1pVoZdHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://ensek-imi.prod.uw.systems/#/workspace/CRM.CustomerAccountDetails//44973379" CvType="InputBox" DesignTimeRectangle="0, 0, 0, 0" DesignTimeScaleFactor="1.5" ElementType="DropDown" FriendlyName="'SELECT SenderRole'" FullSelectorArgument="&lt;webctrl id='SenderRole' tag='SELECT' aaname='Send From Type' idx='1' /&gt;" FuzzySelectorArgument="&lt;webctrl id='SenderRole' tag='SELECT' aaname='Send From Type' type='' class='ng-pristine ng-invalid ng-invalid-required ng-touched' /&gt;" Guid="0c65ba00-2cae-4b93-b17a-9accef5896a6" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Account Details' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

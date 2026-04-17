@@ -1,0 +1,16 @@
+﻿{
+  "Name": "J81_Value2",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "tDVjwU1mukOFNCKmHGH-aQ",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/tDVjwU1mukOFNCKmHGH-aQ",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-10-31T15:42:22.3478196Z",
+  "Updated": "2023-11-03T15:59:08.1977499Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

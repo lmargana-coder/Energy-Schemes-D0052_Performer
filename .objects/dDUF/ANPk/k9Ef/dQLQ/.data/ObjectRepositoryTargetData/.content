@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="p93_Ctbb10WLMEn6uRT5LQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://ensek-imi.prod.uw.systems/#/workspace/CRM.CustomerAccountDetails//45675992" CvTextArgument="D0052" CvType="CheckBox" DesignTimeRectangle="523, 706, 20, 20" DesignTimeScaleFactor="1.5" ElementType="CheckBox" FriendlyName="'Checkbox'" FullSelectorArgument="&lt;webctrl parentid='Flow Viewer:0' tag='TABLE' /&gt;&lt;webctrl parentid='itemForRepeat' tableRow='2' tag='INPUT' type='checkbox' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='Flow Viewer:0' tag='TABLE' /&gt;&lt;webctrl parentid='itemForRepeat' class='ag-filter-checkbox' tag='INPUT' type='checkbox' aaname='' /&gt;" Guid="d32c88a1-3e9c-438e-abd5-bb48b6e63dbd" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Account Details' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

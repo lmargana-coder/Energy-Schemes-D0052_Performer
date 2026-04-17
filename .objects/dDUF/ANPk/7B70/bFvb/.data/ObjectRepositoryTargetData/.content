@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="W3UN8YyhUkSj4cuub4eNKQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://ensek-imi.prod.uw.systems/#/workspace/CRM.CustomerAccountDetails//44973379" CvTextArgument="Please Select" CvType="InputBox" DesignTimeRectangle="472, 713, 1289, 45" DesignTimeScaleFactor="1.5" ElementType="DropDown" FriendlyName="'SELECT 121.1.i4'" FullSelectorArgument="&lt;webctrl tag='SELECT' aaname=' MeasurementClassId ' idx='1' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='SELECT' aaname=' MeasurementClassId ' type='' class='form-control input-sm ng-pristine ng-untouched ng-invalid ng-invalid-required' /&gt;" Guid="094e4161-2467-42da-9565-78b2906ed3c9" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Account Details' /&gt;" SearchSteps="Selector" Version="V2" Visibility="Interactive" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

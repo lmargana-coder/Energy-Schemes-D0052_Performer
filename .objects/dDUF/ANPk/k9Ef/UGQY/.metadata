@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Type Filter Value",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "UGQYn_gAi061zLCGkhCfnA",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/UGQYn_gAi061zLCGkhCfnA",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-10-27T15:13:56.6760463Z",
+  "Updated": "2023-10-30T15:52:05.3324145Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

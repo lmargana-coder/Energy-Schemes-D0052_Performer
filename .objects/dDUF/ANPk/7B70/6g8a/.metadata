@@ -1,0 +1,16 @@
+﻿{
+  "Name": "TimePatternRegime",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "6g8aW2EqLUKGisf4GYL38A",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/6g8aW2EqLUKGisf4GYL38A",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/7B703eVbWEGkMJgdDC03VQ",
+  "Created": "2023-11-01T16:06:30.8809069Z",
+  "Updated": "2023-11-01T16:08:16.3856391Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

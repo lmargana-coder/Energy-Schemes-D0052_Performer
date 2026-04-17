@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Utility Warehouse - Sign In",
+  "Type": "Screen",
+  "Id": "HJMIrsD8OkmtbGvWX6cmag",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/HJMIrsD8OkmtbGvWX6cmag",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/ANPk45wypECmlqCTPXWv_g",
+  "Created": "2023-10-27T14:07:30.4899355Z",
+  "Updated": "2023-10-27T14:09:34.5445009Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

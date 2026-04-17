@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Get DC Value",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "8CeL6MVr9U2K9kRmdY5GRg",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/8CeL6MVr9U2K9kRmdY5GRg",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-12-25T14:36:15.5751595Z",
+  "Updated": "2023-12-25T14:36:15.5751595Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

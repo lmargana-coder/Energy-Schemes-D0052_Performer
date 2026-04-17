@@ -1,0 +1,13 @@
+﻿{
+  "Name": "10D",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "cxmEmsN39EWrBss3Y6Sdtw",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/cxmEmsN39EWrBss3Y6Sdtw",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "Created": "2023-12-19T14:45:02.8835124Z",
+  "Updated": "2023-12-19T14:45:02.8835124Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "EffectivefromSettlement… (1)",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "wllO9a506kaF8Ak2A3g8JQ",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/wllO9a506kaF8Ak2A3g8JQ",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/7B703eVbWEGkMJgdDC03VQ",
+  "Created": "2023-11-01T16:06:30.5357472Z",
+  "Updated": "2023-11-01T16:06:30.5357472Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Click on Record",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Id": "IU6ZGmFTekWJpyhG8OpUMw",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/IU6ZGmFTekWJpyhG8OpUMw",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/Bh0AfvbyBEKBNM6pq8Hj8g",
+  "Created": "2023-10-27T14:48:03.3462158Z",
+  "Updated": "2023-10-27T14:48:32.173252Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

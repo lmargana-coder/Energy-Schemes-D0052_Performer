@@ -1,0 +1,15 @@
+﻿{
+  "Name": "Search Page",
+  "Type": "Screen",
+  "Id": "k9Ef10F5cUy7NBPg8Kf6nw",
+  "Reference": "xS-NGG6aBUWWNP-jAjCyhQ/k9Ef10F5cUy7NBPg8Kf6nw",
+  "ParentRef": "xS-NGG6aBUWWNP-jAjCyhQ/ANPk45wypECmlqCTPXWv_g",
+  "Created": "2023-10-27T15:08:51.6217059Z",
+  "Updated": "2023-12-19T15:33:37.0787537Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="hpZgc19qkES3b0uviVZnZw" Reference="xS-NGG6aBUWWNP-jAjCyhQ/HJMIrsD8OkmtbGvWX6cmag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="BLk59dHY_UGdgBzGIwcpaw" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAHLSURBVFhHvVfLcYMwEFUJKcGXZCRyoYSUkA6cEnLJ2IJLOrA7cDpwCSmBEijBJTi7+oAMC1qEyJt5gwektx9pV7JgY/f5JOTxQxTVRaiqgecNnndD+xvfXYSs90Iedm5WBsjDm1D6tzPGpXFmjSMYsapPpPgSJjlSVCVMbkdi6Wz5TqDxcH3z8Saev0pnZQLo5TbGPWecQON50z7F1uyvEZT+IQZHqMFhJPVthq/65Kw62OjpwUNKKEkszWEUtlz5QeD4DpyJuDceJk0AmxUrKxCIncCJHgTZZQTgbmaTRVmBx8THkFLvnTQfZkkIrZBoO5p+CZ0sFbEWbrSLuiE/enLWfQqxLBS6wc43v1ZrUH7DeUJo9rxBmsgPnq2TSkesuZEve/6DA7ElINvmAlCaPWEJttyESr+Tmp5mE8pYF/QdKwGquo71ApoyZDWihCywG1y8VJB4DuRvxZ0m79IJ5wHceGPAbLGMhx021rEeqK/iBTZXCKwUo8EKxHKUUVWdR4OiTLyQkOeL2QsJYos5d7RvdyO2RO3oZt7KCdREbRbQy6zLAVps4x7WiYSb8pDH87rzJNURf3vOBnTE3njRGfrvOZYXjmFHLMQfQNwBmlsvv/kAAAAASUVORK5CYII=" Reference="xS-NGG6aBUWWNP-jAjCyhQ/HJMIrsD8OkmtbGvWX6cmag" Selector="&lt;html app='chrome.exe' title='Utility Warehouse - Sign In' /&gt;" Title="Utility Warehouse - Sign In" Url="https://ensek-imi.prod.uw.systems/#/login/%252Flogin">
+      <imageRef attrName="InformativeScreenshot" originalValue="54d85f08448ad887497d803d2e7ae896.jpg" xmlns="">0HVuXEvD36U-qdvs2Sv5rGQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
