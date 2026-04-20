@@ -97,7 +97,7 @@
       <AssemblyReference>UiPath.Platform</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Update_OutputFile" sap:VirtualizedContainerService.HintSize="738,1978" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Update_OutputFile" sap:VirtualizedContainerService.HintSize="638.6666666666666,1978" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="dtTemplate" />
       <Variable x:TypeArguments="sd:DataTable" Name="dtReport" />
@@ -112,7 +112,7 @@
     <WriteLine DisplayName="Write Line" sap:VirtualizedContainerService.HintSize="478,124" sap2010:WorkflowViewState.IdRef="WriteLine_1" Text="[isExists.ToString]" />
     <If Condition="[isExists]" sap:VirtualizedContainerService.HintSize="478,658.6666666666666" sap2010:WorkflowViewState.IdRef="If_1">
       <If.Then>
-        <Sequence DisplayName="Sequence" sap:VirtualizedContainerService.HintSize="468,368" sap2010:WorkflowViewState.IdRef="Sequence_2">
+        <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="468,368" sap2010:WorkflowViewState.IdRef="Sequence_2">
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -123,7 +123,7 @@
         </Sequence>
       </If.Then>
       <If.Else>
-        <Sequence DisplayName="Sequence" sap:VirtualizedContainerService.HintSize="468,150.66666666666666" sap2010:WorkflowViewState.IdRef="Sequence_3">
+        <Sequence DisplayName="Else" sap:VirtualizedContainerService.HintSize="468,150.66666666666666" sap2010:WorkflowViewState.IdRef="Sequence_3">
           <sap:WorkflowViewStateService.ViewState>
             <scg:Dictionary x:TypeArguments="x:String, x:Object">
               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
